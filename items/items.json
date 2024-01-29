@@ -1,0 +1,4823 @@
+[
+    {
+        "name": "Def/Atk",
+        "type": "static",
+        "img": "images/defatk.png",
+        "codes": "defatk"
+    },
+    {
+        "name": "Normal",
+        "type": "static",
+        "img": "images/normal.png",
+        "codes": "normal"
+    },
+    {
+        "name": "Fire",
+        "type": "static",
+        "img": "images/fire.png",
+        "codes": "fire"
+    },
+    {
+        "name": "Water",
+        "type": "static",
+        "img": "images/water.png",
+        "codes": "water"
+    },
+    {
+        "name": "Electric",
+        "type": "static",
+        "img": "images/electric.png",
+        "codes": "electric"
+    },
+    {
+        "name": "Grass",
+        "type": "static",
+        "img": "images/grass.png",
+        "codes": "grass"
+    },
+    {
+        "name": "Ice",
+        "type": "static",
+        "img": "images/ice.png",
+        "codes": "ice"
+    },
+    {
+        "name": "Fighting",
+        "type": "static",
+        "img": "images/fighting.png",
+        "codes": "fighting"
+    },
+    {
+        "name": "Poison",
+        "type": "static",
+        "img": "images/poison.png",
+        "codes": "poison"
+    },
+    {
+        "name": "Ground",
+        "type": "static",
+        "img": "images/ground.png",
+        "codes": "ground"
+    },
+    {
+        "name": "Flying",
+        "type": "static",
+        "img": "images/flying.png",
+        "codes": "flying"
+    },
+    {
+        "name": "Psychic",
+        "type": "static",
+        "img": "images/psychic.png",
+        "codes": "psychic"
+    },
+    {
+        "name": "Bug",
+        "type": "static",
+        "img": "images/bug.png",
+        "codes": "bug"
+    },
+    {
+        "name": "Rock",
+        "type": "static",
+        "img": "images/Rock.png",
+        "codes": "rock"
+    },
+    {
+        "name": "Ghost",
+        "type": "static",
+        "img": "images/ghost.png",
+        "codes": "ghost"
+    },
+    {
+        "name": "Dragon",
+        "type": "static",
+        "img": "images/dragon.png",
+        "codes": "dragon"
+    },
+    {
+        "name": "normal on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "nornor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norgra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norgro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "norgho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "normal on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "nordra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firnor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firgra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firgro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firgho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fire on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "firdra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watnor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watgra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watgro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watgho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "water on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "watdra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elenor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elefir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elewat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "eleele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elegra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "eleice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elefig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elepoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elegro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elefly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elepsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elebug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "eleroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "elegho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "electric on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "eledra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "granor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grafir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grawat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "graele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gragra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "graice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grafig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grapoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gragro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grafly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grapsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grabug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "graroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gragho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "grass on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gradra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icenor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icefir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icewat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "iceele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icegra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "iceice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icefig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icepoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icegro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icefly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icepsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icebug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "iceroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icegho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ice on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "icedra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "fignor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figgra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figgro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figgho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "fighting on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "figdra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poinor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poifir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poiwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poiele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poigra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poiice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poifig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poipoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poigro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poifly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poipsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poibug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poiroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poigho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "poison on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "poidra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gronor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grofir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "growat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "groele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grogra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "groice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grofig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gropoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grogro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grofly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "gropsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grobug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "groroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grogho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ground on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "grodra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flynor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flywat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flygra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flypoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flygro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flypsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flybug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flyroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flygho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "flying on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "flydra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psynor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psywat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psygra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psypoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psygro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psypsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psybug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psyroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psygho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "psychic on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "psydra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugnor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "buggra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "buggro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "buggho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "bug on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "bugdra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocnor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocfir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocwat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocgra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocfig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocpoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocgro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocfly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocpsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocbug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocgho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "rock on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "rocdra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghonor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghofir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghowat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghoele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghogra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghoice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghofig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghopoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghogro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghofly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghopsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghobug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghoroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghogho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "ghost on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "ghodra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on normal",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "dranor"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on fire",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drafir"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on water",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drawat"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on electric",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "draele"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on grass",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "dragra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on ice",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "draice"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on fighting",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drafig"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on poison",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drapoi"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on ground",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "dragro"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on flying",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drafly"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on psychic",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drapsy"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on bug",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "drabug"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on rock",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "draroc"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on ghost",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "dragho"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    },
+    {
+        "name": "dragon on dragon",
+        "type": "progressive",
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "img": "images/x1.png",
+                "codes": "dradra"
+            },
+            {
+                "img": "images/x05.png"
+            },
+            {
+                "img": "images/x2.png"
+            },
+            {
+                "img": "images/x0.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+﻿{
+  "name": "Pokemon Red and Blue Type Chart Randomizer AP",
+  "game_name": "Pokemon Red and Blue Versions",
+  "package_version": "1.0.4",
+  "package_uid": "pkmntype_jim",
+  "author": "j_im",
+  "variants": {
+    "standard": {
+      "display_name": "Type Chart",
+      "flags": ["ap"]
+    },
+    "chaos": {
+      "display_name": "Chaos Shuffle",
+      "flags": ["ap"]
+    }
+  }
+}

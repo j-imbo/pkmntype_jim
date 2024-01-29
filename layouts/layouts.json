@@ -1,0 +1,29 @@
+{
+    "tracker_right_map": {
+        "type": "container",
+        "background": "#212121",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "margin": "0,0,0,0",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Type Chart",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "item_grid"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

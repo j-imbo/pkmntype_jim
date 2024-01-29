@@ -1,0 +1,31 @@
+{
+    "item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1,2",
+                "rows": [
+                    ["defatk", "normal", "fire", "water", "electric", "grass", "ice", "fighting", "poison", "ground", "flying", "psychic", "bug", "rock", "ghost", "dragon"],
+                    ["normal", "nornor", "norfir", "norwat", "norele", "norgra", "norice", "norfig", "norpoi", "norgro", "norfly", "norpsy", "norbug", "norroc", "norgho", "nordra"],
+                    ["fire", "firnor", "firfir", "firwat", "firele", "firgra", "firice", "firfig", "firpoi", "firgro", "firfly", "firpsy", "firbug", "firroc", "firgho", "firdra"],
+                    ["water", "watnor", "watfir", "watwat", "watele", "watgra", "watice", "watfig", "watpoi", "watgro", "watfly", "watpsy", "watbug", "watroc", "watgho", "watdra"],
+                    ["electric", "elenor", "elefir", "elewat", "eleele", "elegra", "eleice", "elefig", "elepoi", "elegro", "elefly", "elepsy", "elebug", "eleroc", "elegho", "eledra"],
+                    ["grass", "granor", "grafir", "grawat", "graele", "gragra", "graice", "grafig", "grapoi", "gragro", "grafly", "grapsy", "grabug", "graroc", "gragho", "gradra"],
+                    ["ice", "icenor", "icefir", "icewat", "iceele", "icegra", "iceice", "icefig", "icepoi", "icegro", "icefly", "icepsy", "icebug", "iceroc", "icegho", "icedra"],
+                    ["fighting", "fignor", "figfir", "figwat", "figele", "figgra", "figice", "figfig", "figpoi", "figgro", "figfly", "figpsy", "figbug", "figroc", "figgho", "figdra"],
+                    ["poison", "poinor", "poifir", "poiwat", "poiele", "poigra", "poiice", "poifig", "poipoi", "poigro", "poifly", "poipsy", "poibug", "poiroc", "poigho", "poidra"],
+                    ["ground", "gronor", "grofir", "growat", "groele", "grogra", "groice", "grofig", "gropoi", "grogro", "grofly", "gropsy", "grobug", "groroc", "grogho", "grodra"],
+                    ["flying", "flynor", "flyfir", "flywat", "flyele", "flygra", "flyice", "flyfig", "flypoi", "flygro", "flyfly", "flypsy", "flybug", "flyroc", "flygho", "flydra"],
+                    ["psychic", "psynor", "psyfir", "psywat", "psyele", "psygra", "psyice", "psyfig", "psypoi", "psygro", "psyfly", "psypsy", "psybug", "psyroc", "psygho", "psydra"],
+                    ["bug", "bugnor", "bugfir", "bugwat", "bugele", "buggra", "bugice", "bugfig", "bugpoi", "buggro", "bugfly", "bugpsy", "bugbug", "bugroc", "buggho", "bugdra"],
+                    ["rock", "rocnor", "rocfir", "rocwat", "rocele", "rocgra", "rocice", "rocfig", "rocpoi", "rocgro", "rocfly", "rocpsy", "rocbug", "rocroc", "rocgho", "rocdra"],
+                    ["ghost", "ghonor", "ghofir", "ghowat", "ghoele", "ghogra", "ghoice", "ghofig", "ghopoi", "ghogro", "ghofly", "ghopsy", "ghobug", "ghoroc", "ghogho", "ghodra"],
+                    ["dragon", "dranor", "drafir", "drawat", "draele", "dragra", "draice", "drafig", "drapoi", "dragro", "drafly", "drapsy", "drabug", "draroc", "dragho", "dradra"]
+                ]
+            }
+        ]
+    }
+}
